@@ -24,7 +24,9 @@ When the container has two blocks, you must place the lighter blue block above t
 <br />
 
 For display: flex / flex-col / flex-row / flex-col-reverse / flex-row-reverse
+<br />
 For justify: justify-start / justify-center / justify-end
+<br />
 For items: items-start / items-center / items-end
 <br />
 
