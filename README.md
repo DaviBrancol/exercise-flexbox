@@ -66,7 +66,6 @@ http://localhost:3000
 ```
 
 <br />
-<br />
 
 ## How to start
 
@@ -83,6 +82,10 @@ You may open the page on the localhost:3000 to check if the blocks are correctly
 ```sh
 yarn test
 ```
+
+<br />
+<br />
+
 
 ## Blocks Order 
 
