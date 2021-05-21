@@ -1,0 +1,51 @@
+{
+  "name": "exercise-flexbox",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "start": "next dev -p 3000",
+    "test": "jest --silent --collectCoverage=false --noStackTrace --verbose"
+  },
+  "dependencies": {
+    "next": "^10.0.5",
+    "next-seo": "^4.7.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.12.13",
+    "@tailwindcss/custom-forms": "^0.2.1",
+    "@tailwindcss/jit": "^0.1.1",
+    "@testing-library/dom": "^7.30.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^13.0.14",
+    "@types/node": "^14.10.1",
+    "@types/react": "^16.9.49",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "autoprefixer": "^10.2.5",
+    "babel-jest": "^26.6.3",
+    "commitizen": "^4.2.2",
+    "cross-env": "^7.0.3",
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-standard": "^5.0.0",
+    "jest": "^26.6.3",
+    "postcss": "^8.1.8",
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^2.0.2",
+    "typescript": "^4.0.2"
+  }
+}
