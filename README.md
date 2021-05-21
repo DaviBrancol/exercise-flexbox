@@ -72,9 +72,13 @@ http://localhost:3000
 
 Open the file MyTest.tsx inside the src/test directory and follow the instructions to code your test and start studying.
 
+<br />
+<br />
+
 ## How to test
 
 You may open the page on the localhost:3000 to check if the blocks are correctly positioned. You may also run the following commands and check if all tests pass.
+<br />
 
 ```sh
 yarn test
@@ -90,7 +94,6 @@ The blocks are mapped as described bellow
 | Row 2       | GridItemFour | GridItemFive          | GridItemSix |
 | Row 3         | GridItemSeven | GridItemEight | GridItemNine |
 
-<br />
 <br />
 <br />
 
