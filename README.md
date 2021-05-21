@@ -4,8 +4,10 @@
 
 Welcome to the React Tailwind Flexbox Exercise. 
 <br />
+
 The main purpose of this exercise is to test your abilities with the Flexbox concept using the Tailwind Framework inside the React Project.
 <br />
+
 Follow the instructions to install, run and test your project. If you have any doubts, contact me via github or email.
 <br />
 <br />
