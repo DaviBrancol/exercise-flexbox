@@ -8,6 +8,7 @@ module.exports = {
   ],
   moduleDirectories: ['node_modules', 'src'],
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
+  reporters: ['<rootDir>/src/library/custom-reporter.js'],
   roots: ['<rootDir>/src'],
   coverageThreshold: {
     global: {
