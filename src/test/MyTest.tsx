@@ -10,37 +10,37 @@ import { GridLayoutOne, GridLayoutTwo, GridLayoutThree, GridLayoutFour, GridLayo
 // https://tailwindcss.com/
 
 export const GridItemOne: React.VFC = () => {
-    return <GridLayoutOne className="flex justify-end" />
+    return <GridLayoutOne className="" />
 }
 
 export const GridItemTwo: React.VFC = () => {
-    return <GridLayoutTwo className="flex justify-end items-center" />
+    return <GridLayoutTwo className="" />
 }
 
 export const GridItemThree: React.VFC = () => {
-    return <GridLayoutThree className="flex justify-start items-end" />
+    return <GridLayoutThree className="" />
 }
 
 export const GridItemFour: React.VFC = () => {
-    return <GridLayoutFour className="flex justify-center items-center" />
+    return <GridLayoutFour className="" />
 }
 
 export const GridItemFive: React.VFC = () => {
-    return <GridLayoutFive className="flex justify-end items-end" />
+    return <GridLayoutFive className="" />
 }
 
 export const GridItemSix: React.VFC = () => {
-    return <GridLayoutSix className="flex flex-col justify-end items-end" />
+    return <GridLayoutSix className="" />
 }
 
 export const GridItemSeven: React.VFC = () => {
-    return <GridLayoutSeven className="flex flex-col items-end justify-start" />
+    return <GridLayoutSeven className="" />
 }
 
 export const GridItemEight: React.VFC = () => {
-    return <GridLayoutEight className="flex flex-col-reverse items-end justify-end" />
+    return <GridLayoutEight className="" />
 }
 
 export const GridItemNine: React.VFC = () => {
-    return <GridLayoutNine className="flex flex-row-reverse items-end" />
+    return <GridLayoutNine className="" />
 }
