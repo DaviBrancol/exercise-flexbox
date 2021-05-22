@@ -36,7 +36,7 @@ For more information about this classes and its respective css properties, check
 
 ## Installation
 
-First of all, clone this repository into your desktop
+First of all, clone this repository into your desktop, and make sure to have node installed.
 <br />
 
 ```sh
